@@ -7,3 +7,5 @@ scikit-learn
 keras
 imblearn
 opencv-python
+tensorflow_hub
+tf_keras
